@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=name\ author\ price\ printedYear
+comment1.target=Book(java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=newPrice
+comment3.target=void\ changePrice(double)
+comment4.params=
+comment4.target=int\ getPrintedYear()
+comment5.params=
+comment5.target=double\ getPrice()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=name\ age\ gpa\ code
+comment1.target=Student(java.lang.String,\ int,\ double,\ int)
+comment2.params=
+comment2.target=void\ printDetails()
+comment3.params=newGpa
+comment3.target=void\ changeGpa(double)
+comment4.params=letter
+comment4.target=void\ checkAndCapitalizeName(char)
+comment5.params=
+comment5.target=void\ printNameLength()
+comment6.params=
+comment6.target=void\ printLastThreeDigits()
+comment7.params=inputName
+comment7.target=boolean\ checkNameMatch(java.lang.String)
+numComments=8
